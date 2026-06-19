@@ -67,7 +67,7 @@ joblib
 
 ## 3. Data availability
 
-The experimental datasets used to train the models (`structure - H2O MgCl2.xlsx`, `structure - H2O LiCl.xlsx`, `preparation - rp.xlsx`, `preparation - D.xlsx`) are provided as **Supporting Information** of the published article. Please place the four Excel files in the `data/` directory before running the scripts (or in the project root, matching the paths used in the scripts).
+Data will be made available on request.
 
 ---
 
