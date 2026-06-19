@@ -1,4 +1,4 @@
-# Small-sample modeling and mechanism-guided design of polyamide nanofiltration membranes via Bayesian optimization
+# Mechanism-guided design of polyamide nanofiltration membranes for salt-specific desalination via Bayesian-optimized machine learning
 
 
 
